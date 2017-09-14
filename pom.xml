@@ -166,3 +166,15 @@
         </dependency>
     </dependencies>
 </project>
+<dependency>
+  <groupId>pw.betanyan</groupId>
+  <artifactId>skype4j</artifactId>
+  <version>1.0</version>
+</dependency>
+
+<dependencies>
+<dependency>
+  <groupId>com.samczsun</groupId>
+  <artifactId>skype4j</artifactId>
+  <version>0.1.5</version>
+</dependency>
